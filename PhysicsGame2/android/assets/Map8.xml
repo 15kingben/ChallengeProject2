@@ -1,0 +1,989 @@
+<?xml version="1.0"?>
+<Level xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Level_01" Visible="true">
+    <Layers>
+        <Layer Name="Scale" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>0.008680556</X>
+                <Y>-0.008680556</Y>
+            </ScrollSpeed>
+        </Layer>
+        <Layer Name="Center" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>0</X>
+                <Y>0</Y>
+            </ScrollSpeed>
+        </Layer>
+        <Layer Name="Dimensions" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>4608</X>
+                <Y>2560</Y>
+            </ScrollSpeed>
+        </Layer>
+        <Layer Name="Static" Visible="true">
+            <Items>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0008" Visible="true">
+                    <Position>
+                        <X>-2304</X>
+                        <Y>-1280</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>4608</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0009" Visible="true">
+                    <Position>
+                        <X>2176</X>
+                        <Y>-1152</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>2304</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0005" Visible="true">
+                    <Position>
+                        <X>-2304</X>
+                        <Y>1152</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>4608</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0007" Visible="true">
+                    <Position>
+                        <X>-2304</X>
+                        <Y>-1152</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>2304</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="PathItem" Name="Path_0046" Visible="true">
+                    <Position>
+                        <X>320</X>
+                        <Y>512</Y>
+                    </Position>
+                    <CustomProperties>
+                        <Property Name="DrawCenter" Type="Vector2" Description="">
+                            <Vector2>
+                                <X>640</X>
+                                <Y>96</Y>
+                            </Vector2>
+                        </Property>
+                        <Property Name="DrawDimensions" Type="Vector2" Description="">
+                            <Vector2>
+                                <X>640</X>
+                                <Y>832</Y>
+                            </Vector2>
+                        </Property>
+                    </CustomProperties>
+                    <LocalPoints>
+                        <Vector2>
+                            <X>0</X>
+                            <Y>0</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>640</X>
+                            <Y>0</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>640</X>
+                            <Y>-832</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>0</X>
+                            <Y>0</Y>
+                        </Vector2>
+                    </LocalPoints>
+                    <WorldPoints>
+                        <Vector2>
+                            <X>320</X>
+                            <Y>512</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>960</X>
+                            <Y>512</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>960</X>
+                            <Y>-320</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>320</X>
+                            <Y>512</Y>
+                        </Vector2>
+                    </WorldPoints>
+                    <IsPolygon>false</IsPolygon>
+                    <LineWidth>10</LineWidth>
+                    <LineColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </LineColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0047" Visible="true">
+                    <Position>
+                        <X>-704</X>
+                        <Y>0</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>192</Width>
+                    <Height>256</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0048" Visible="true">
+                    <Position>
+                        <X>512</X>
+                        <Y>0</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>192</Width>
+                    <Height>256</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0049" Visible="true">
+                    <Position>
+                        <X>-384</X>
+                        <Y>-768</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>768</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0050" Visible="true">
+                    <Position>
+                        <X>-1344</X>
+                        <Y>192</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>384</Width>
+                    <Height>320</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0051" Visible="true">
+                    <Position>
+                        <X>960</X>
+                        <Y>192</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>384</Width>
+                    <Height>320</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0052" Visible="true">
+                    <Position>
+                        <X>-768</X>
+                        <Y>960</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>1536</Width>
+                    <Height>192</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0053" Visible="true">
+                    <Position>
+                        <X>-640</X>
+                        <Y>832</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0054" Visible="true">
+                    <Position>
+                        <X>576</X>
+                        <Y>832</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0055" Visible="true">
+                    <Position>
+                        <X>-1664</X>
+                        <Y>576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>256</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0057" Visible="true">
+                    <Position>
+                        <X>1536</X>
+                        <Y>576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>256</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0058" Visible="true">
+                    <Position>
+                        <X>1664</X>
+                        <Y>576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>512</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0059" Visible="true">
+                    <Position>
+                        <X>-2176</X>
+                        <Y>576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>512</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0060" Visible="true">
+                    <Position>
+                        <X>-1920</X>
+                        <Y>192</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>320</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0061" Visible="true">
+                    <Position>
+                        <X>1600</X>
+                        <Y>192</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>320</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0063" Visible="true">
+                    <Position>
+                        <X>-1088</X>
+                        <Y>-960</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>704</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0064" Visible="true">
+                    <Position>
+                        <X>960</X>
+                        <Y>-960</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>704</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0065" Visible="true">
+                    <Position>
+                        <X>-960</X>
+                        <Y>-576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>384</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0066" Visible="true">
+                    <Position>
+                        <X>512</X>
+                        <Y>-576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>448</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0067" Visible="true">
+                    <Position>
+                        <X>-320</X>
+                        <Y>-384</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>640</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0068" Visible="true">
+                    <Position>
+                        <X>-128</X>
+                        <Y>-128</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>320</Width>
+                    <Height>256</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0069" Visible="true">
+                    <Position>
+                        <X>-128</X>
+                        <Y>384</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>256</Width>
+                    <Height>192</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0070" Visible="true">
+                    <Position>
+                        <X>-1792</X>
+                        <Y>-256</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>576</Width>
+                    <Height>192</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0071" Visible="true">
+                    <Position>
+                        <X>1216</X>
+                        <Y>-256</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>576</Width>
+                    <Height>192</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0072" Visible="true">
+                    <Position>
+                        <X>-2176</X>
+                        <Y>-64</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0073" Visible="true">
+                    <Position>
+                        <X>2048</X>
+                        <Y>-64</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0074" Visible="true">
+                    <Position>
+                        <X>1088</X>
+                        <Y>-704</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>448</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0075" Visible="true">
+                    <Position>
+                        <X>-1536</X>
+                        <Y>-704</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>448</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0076" Visible="true">
+                    <Position>
+                        <X>-2176</X>
+                        <Y>-576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>384</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0077" Visible="true">
+                    <Position>
+                        <X>1792</X>
+                        <Y>-576</Y>
+                    </Position>
+                    <CustomProperties>
+                        <Property Name="DrawDimensions" Type="Vector2" Description="">
+                            <Vector2>
+                                <X>1</X>
+                                <Y>1</Y>
+                            </Vector2>
+                        </Property>
+                    </CustomProperties>
+                    <Width>384</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="PathItem" Name="Path_0090" Visible="true">
+                    <Position>
+                        <X>-960</X>
+                        <Y>512</Y>
+                    </Position>
+                    <CustomProperties>
+                        <Property Name="DrawCenter" Type="Vector2" Description="">
+                            <Vector2>
+                                <X>-640</X>
+                                <Y>96</Y>
+                            </Vector2>
+                        </Property>
+                        <Property Name="DrawDimensions" Type="Vector2" Description="">
+                            <Vector2>
+                                <X>640</X>
+                                <Y>-832</Y>
+                            </Vector2>
+                        </Property>
+                        <Property Name="Flip" Type="bool" Description="">
+                            <boolean>true</boolean>
+                        </Property>
+                    </CustomProperties>
+                    <LocalPoints>
+                        <Vector2>
+                            <X>0</X>
+                            <Y>0</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>640</X>
+                            <Y>0</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>0</X>
+                            <Y>-832</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>0</X>
+                            <Y>0</Y>
+                        </Vector2>
+                    </LocalPoints>
+                    <WorldPoints>
+                        <Vector2>
+                            <X>-960</X>
+                            <Y>512</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>-320</X>
+                            <Y>512</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>-960</X>
+                            <Y>-320</Y>
+                        </Vector2>
+                        <Vector2>
+                            <X>-960</X>
+                            <Y>512</Y>
+                        </Vector2>
+                    </WorldPoints>
+                    <IsPolygon>false</IsPolygon>
+                    <LineWidth>10</LineWidth>
+                    <LineColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </LineColor>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+        </Layer>
+        <Layer Name="Dynamic" Visible="true">
+            <Items>
+                <Item xsi:type="CircleItem" Name="Circle_0014" Visible="true">
+                    <Position>
+                        <X>-3</X>
+                        <Y>-845</Y>
+                    </Position>
+                    <CustomProperties>
+                        <Property Name="BallBody" Type="bool" Description="">
+                            <boolean>true</boolean>
+                        </Property>
+                    </CustomProperties>
+                    <Radius>42.3792419</Radius>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0078" Visible="true">
+                    <Position>
+                        <X>-256</X>
+                        <Y>-448</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0079" Visible="true">
+                    <Position>
+                        <X>192</X>
+                        <Y>-448</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0080" Visible="true">
+                    <Position>
+                        <X>128</X>
+                        <Y>-448</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0081" Visible="true">
+                    <Position>
+                        <X>128</X>
+                        <Y>-512</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0082" Visible="true">
+                    <Position>
+                        <X>-192</X>
+                        <Y>-448</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0083" Visible="true">
+                    <Position>
+                        <X>-192</X>
+                        <Y>-512</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0084" Visible="true">
+                    <Position>
+                        <X>-64</X>
+                        <Y>-576</Y>
+                    </Position>
+                    <CustomProperties>
+                        <Property Name="IsExplosive" Type="bool" Description="">
+                            <boolean>true</boolean>
+                        </Property>
+                    </CustomProperties>
+                    <Width>128</Width>
+                    <Height>128</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0085" Visible="true">
+                    <Position>
+                        <X>-128</X>
+                        <Y>-576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>192</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0086" Visible="true">
+                    <Position>
+                        <X>64</X>
+                        <Y>-576</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>192</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0087" Visible="true">
+                    <Position>
+                        <X>-64</X>
+                        <Y>-448</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0088" Visible="true">
+                    <Position>
+                        <X>-320</X>
+                        <Y>-448</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0089" Visible="true">
+                    <Position>
+                        <X>256</X>
+                        <Y>-448</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>64</Width>
+                    <Height>64</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+        </Layer>
+        <Layer Name="Sensor" Visible="true">
+            <Items>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0041" Visible="true">
+                    <Position>
+                        <X>-2112</X>
+                        <Y>960</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>192</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+                <Item xsi:type="RectangleItem" Name="Rectangle_0042" Visible="true">
+                    <Position>
+                        <X>1984</X>
+                        <Y>960</Y>
+                    </Position>
+                    <CustomProperties />
+                    <Width>128</Width>
+                    <Height>192</Height>
+                    <FillColor>
+                        <R>192</R>
+                        <G>0</G>
+                        <B>192</B>
+                        <A>145</A>
+                        <PackedValue>2445279424</PackedValue>
+                    </FillColor>
+                </Item>
+            </Items>
+            <ScrollSpeed>
+                <X>1</X>
+                <Y>1</Y>
+            </ScrollSpeed>
+        </Layer>
+        <Layer Name="Start2" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>-1675</X>
+                <Y>880</Y>
+            </ScrollSpeed>
+        </Layer>
+        <Layer Name="Start1" Visible="true">
+            <Items />
+            <ScrollSpeed>
+                <X>1535</X>
+                <Y>880</Y>
+            </ScrollSpeed>
+        </Layer>
+    </Layers>
+    <CustomProperties />
+    <EditorRelated>
+        <NextItemNumber>90</NextItemNumber>
+        <ContentRootFolder>C:\</ContentRootFolder>
+        <CameraPosition>
+            <X>0</X>
+            <Y>8.333349</Y>
+        </CameraPosition>
+        <Version>1.3.0.0</Version>
+    </EditorRelated>
+</Level>

@@ -1,0 +1,346 @@
+
+game.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BlueWins
+  rotate: false
+  xy: 2, 200
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 2, 70
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 0
+Explosion
+  rotate: false
+  xy: 132, 70
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 1
+Explosion
+  rotate: false
+  xy: 262, 70
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 2
+Grenade
+  rotate: false
+  xy: 2, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 0
+Grenade
+  rotate: false
+  xy: 2, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 7
+Grenade
+  rotate: false
+  xy: 2, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 3
+Grenade
+  rotate: false
+  xy: 2, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 5
+Grenade
+  rotate: false
+  xy: 2, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 1
+Grenade
+  rotate: false
+  xy: 2, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 2
+Grenade
+  rotate: false
+  xy: 454, 66
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 4
+Grenade
+  rotate: false
+  xy: 454, 66
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 8
+Grenade
+  rotate: false
+  xy: 454, 66
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 6
+Light
+  rotate: false
+  xy: 2, 26
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 0
+Light
+  rotate: false
+  xy: 24, 48
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: 1
+Robot
+  rotate: false
+  xy: 392, 88
+  size: 100, 110
+  orig: 100, 110
+  offset: 0, 0
+  index: -1
+SpacemanJump
+  rotate: false
+  xy: 392, 2
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+
+game2.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Ball
+  rotate: false
+  xy: 392, 104
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Box
+  rotate: false
+  xy: 392, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 2, 76
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 3
+Explosion
+  rotate: false
+  xy: 132, 76
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 4
+Explosion
+  rotate: false
+  xy: 262, 76
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 5
+OrangeWins
+  rotate: false
+  xy: 2, 206
+  size: 500, 300
+  orig: 500, 300
+  offset: 0, 0
+  index: -1
+
+game3.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Cannon
+  rotate: false
+  xy: 2, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 392, 395
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Circle
+  rotate: false
+  xy: 104, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Crosshairs
+  rotate: false
+  xy: 392, 293
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Explosion
+  rotate: false
+  xy: 2, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 6
+Explosion
+  rotate: false
+  xy: 2, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 7
+Explosion
+  rotate: false
+  xy: 132, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 8
+Explosion
+  rotate: false
+  xy: 2, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 9
+Explosion
+  rotate: false
+  xy: 132, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 10
+Explosion
+  rotate: false
+  xy: 262, 367
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 11
+Explosion
+  rotate: false
+  xy: 132, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 12
+Explosion
+  rotate: false
+  xy: 262, 237
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 13
+Explosion
+  rotate: false
+  xy: 262, 107
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 14
+Flames
+  rotate: false
+  xy: 410, 88
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+Slope
+  rotate: false
+  xy: 206, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Slope1
+  rotate: false
+  xy: 392, 191
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+SpacemanRest
+  rotate: false
+  xy: 410, 2
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: -1
+SpacemanRun
+  rotate: false
+  xy: 410, 2
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: 3
+TNT
+  rotate: false
+  xy: 308, 5
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Explosion
+  rotate: false
+  xy: 2, 88
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: 15
+SpacemanRun
+  rotate: false
+  xy: 2, 2
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: 0
+SpacemanRun
+  rotate: false
+  xy: 132, 132
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: 1
+SpacemanRun
+  rotate: false
+  xy: 194, 132
+  size: 60, 84
+  orig: 60, 84
+  offset: 0, 0
+  index: 2

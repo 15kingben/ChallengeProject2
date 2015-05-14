@@ -1,0 +1,7 @@
+package graphics;
+
+import java.applet.Applet;
+
+public class Graphics3d extends Applet {
+
+}

@@ -1,0 +1,32 @@
+<polygons>
+    <polygon>
+        <vertex x="-1.5" y="-14" />
+        <vertex x="-1.5" y="14" />
+        <vertex x="1.5" y="-14" />
+        <vertex x="1.5" y="14" />
+        <position x="1.5" y="14" />
+    </polygon>
+    
+    <polygon>
+        <vertex x="-1.5" y="-14" />
+        <vertex x="-1.5" y="14" />
+        <vertex x="1.5" y="-14" />
+        <vertex x="1.5" y="14" />
+        <position x="37" y="14" />
+    </polygon>
+    
+    <polygon>
+        <vertex x="-19" y="-2" />
+        <vertex x="20" y="1.5" />
+        <vertex x="21" y="-1" />
+        <vertex x="-20" y="1.5" />
+        <position x="20" y="28" />
+    </polygon>
+    <polygon>
+        <vertex x="-20" y="-2" />
+        <vertex x="20" y="2" />
+        <vertex x="20" y="-2" />
+        <vertex x="-20" y="2" />
+        <position x="20" y="0" />
+    </polygon>
+</polygons>
